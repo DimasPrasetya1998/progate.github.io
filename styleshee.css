@@ -1,0 +1,47 @@
+/*awal bagian Dimas*/
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
+    margin: auto;
+}
+.underlined{
+    color: #579581;
+    
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-decoration: underline wavy 2px;
+    text-underline-offset: 10px;
+    margin-bottom: 20px;
+    
+}
+.karya{
+    float: left;
+}
+.tombol-karya{
+    float: right;
+    background-color: #4a7d6d;
+    padding: 20px 20px;
+    color: white;
+    border-radius: 7px;
+    text-decoration: none;
+    
+
+
+}
+.tombol-karya:hover{
+    box-shadow:1px 1px 10px 1px #4a7d6d;
+
+}
+
+.tombol-karya:active{
+
+opacity: 0.9;
+}
+.fa-angle-right{
+    margin-left: 5px;
+}
+
+
+/*akhir bagian Dimas*/
